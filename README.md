@@ -47,10 +47,11 @@ Name: Ankush Kumar Ramteke
 Email: Ankushramteke07@gmail.com
 
 ## Screenshots
+![snap (1)](https://github.com/user-attachments/assets/f5c04d7e-8be4-418b-8cee-5cca1b969501)
 ![snap (2)](https://github.com/user-attachments/assets/357c040f-cd55-43b5-a4de-1e75cddf91a2)
 ![snap (3)](https://github.com/user-attachments/assets/9a9f3652-9cf1-4e5d-a50e-fa28ec1b7e0a)
 ![snap (4)](https://github.com/user-attachments/assets/db24acdb-efc2-4a7d-b3a0-31b9e732ec4c)
 ![snap (5)](https://github.com/user-attachments/assets/0cd2aa40-81e9-4403-87a3-fec5c267f070)
 ![snap (6)](https://github.com/user-attachments/assets/48c2ecb6-9121-4447-8ade-a2fd03abcdd1)
-![snap (1)](https://github.com/user-attachments/assets/f5c04d7e-8be4-418b-8cee-5cca1b969501)
+
 
