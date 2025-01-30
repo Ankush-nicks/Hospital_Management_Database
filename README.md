@@ -15,6 +15,7 @@ A simple and minimal Hospital Database Management System featuring multiple page
 2. Navigate to the project directory:
    >cd Hospital_Management_Database
 3. Install the required dependencies (if any). Ensure Python is installed on your system.
+   
 
 ## Usage
 1. Run the main application file:
